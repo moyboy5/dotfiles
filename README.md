@@ -38,7 +38,7 @@ cp ~/.bash_profile ~/.bash_profile_bkp
 
 *PS.: Not everybody has a .bash_profile*
 
-The next step is to open your .bashrc and add the following line as the last line in the file:
+The next step is to open your .bash_profile (or create if you don't have one) and add the following line as the last line in the file:
 
 `
 source ~/etc/bashrc
